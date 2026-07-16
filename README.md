@@ -1,5 +1,5 @@
 # Pokemon GO Assets
-jh
+
 Repository of all mined assets, including sprites, sounds, and news items. This repo is organized based on category and is a combination of downloaded/remote assets and assets found inside the APK.
 
 **NOTE:** Looking for something that's not in the repo? Check out our temporary scratch folder: [https://pokeminers.com/scratch](https://pokeminers.com/scratch). This is where assets will live (unorganized) until we have a chance to update the repo. Once added to the repo, they will be removed from the scratch folder.
